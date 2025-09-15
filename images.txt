@@ -7,4 +7,4 @@
 
 #--platform=linux/arm64 ros:humble-ros-base
 
---platform=linux/arm64 mysql
+--platform=linux/arm64 redis
