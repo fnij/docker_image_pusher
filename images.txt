@@ -9,4 +9,4 @@
 
 #--platform=linux/arm64 redis
 
---platform=linux/arm64 ecpe4s/ubuntu20.04
+--platform=linux/arm64 paketobuildpacks/miniconda
