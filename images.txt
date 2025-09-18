@@ -7,4 +7,6 @@
 
 #--platform=linux/arm64 ros:humble-ros-base
 
---platform=linux/arm64 redis
+#--platform=linux/arm64 redis
+
+--platform=linux/arm64 ecpe4s/ubuntu20.04
